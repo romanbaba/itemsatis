@@ -1,8 +1,8 @@
 const { CommandHandler, EventHandler } = require('djs-bot-base');
 const { Client } = require('discord.js');
 
-const commands = new CommandHandler({ slashCommandsDir: './example/commands' });
-const events = new EventHandler({ eventsDir: './example/events' });
+const commands = new CommandHandler({ slashCommandsDir: './commands' });
+const events = new EventHandler({ eventsDir: './events' });
 
 const client = new Client({
   intents: [],
