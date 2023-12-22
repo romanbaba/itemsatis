@@ -1,0 +1,23 @@
+{
+  "name": "itemsatis-bot-example",
+  "version": "1.0.0",
+  "description": "İtemsatis example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "."
+  ],
+  "author": "romanbaba",
+  "license": "MIT",
+  "dependencies": {
+    "djs-bot-base": "^1.1.2",
+    "itemsatis": "^1.1.0",
+    "utilscord": "^1.2.0"
+  }
+}

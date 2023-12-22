@@ -1,0 +1,10 @@
+src
+node_modules
+.eslintrc
+.eslintignore
+.gitignore
+.npmignore
+.prettierrc
+example
+data.json
+package-lock.json
